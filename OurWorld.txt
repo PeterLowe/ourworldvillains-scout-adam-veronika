@@ -3,6 +3,12 @@ Compiled by Peter Lowe, Adam Sharpe, Veronika Syncakova, Scout McCann [PL, AS, V
 
 
 ++++++++++++++++++++++  Americas  ++++++++++++++++++++
+---- United States of America [pl]
+Land of the free and the home of the brave.
+---- Brazil [as]
+Home of the big Jesus statue
+---- Chile [as]
+Giorno's theme but IRL
 ---- Brazil [vs]
 The largest country in both South America and Latin America
 
@@ -11,16 +17,20 @@ The largest country in both South America and Latin America
 Ooh la la! 
 ---- Italy [as]
 Pizza's origin story
+---- Holy See [as]
+Not a typo..
 ---- Spain [vs]
 pain with s 
 
 +++++++++++++++++++++     Africa  ++++++++++++++++++++
 ----- Egypt [pl]
 Home of the Pyramids
--- Ethiopia [as]
+----- Ethiopia [as]
 Where the oldest human was found
 ---- Marocco[vs]
 westernmost country in the Maghreb region of North Africa
+----- Togo [as]
+One of the places that have ever existed
 
 ++++++++++++++++++++++    Asia    ++++++++++++++++++++
 ------ China [pl]
@@ -36,3 +46,5 @@ The only thing more unthinkable than leaving was staying;
 the only thing more impossible than staying was leaving.
 ---- Fiji [as]
 Land formed through volcanic activity. Clear water. Expensive holiday.
+---- Queensland [as]
+Land of the queens
