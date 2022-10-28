@@ -5,8 +5,10 @@ Compiled by Peter Lowe, Veronika Syncakova, Scout McCann [PL, VS, SM]
 ++++++++++++++++++++++  Americas  ++++++++++++++++++++
 ---- United States of America [pl]
 Land of the free and the home of the brave.
----- Brazil
+---- Brazil [as]
 Home of the big Jesus statue
+---- Chile [as]
+Giorno's theme but IRL
 
 ++++++++++++++++++++++   Europe   ++++++++++++++++++++
 ---- France [pl]
