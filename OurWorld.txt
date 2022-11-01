@@ -5,12 +5,12 @@ Compiled by Peter Lowe, Adam Sharpe, Veronika Syncakova, Scout McCann [PL, AS, V
 ++++++++++++++++++++++  Americas  ++++++++++++++++++++
 ---- United States of America [pl]
 Land of the free and the home of the brave.
----- Brazil [as]
+---- Brazil [as] [vs]
 Home of the big Jesus statue
 ---- Chile [as]
 Giorno's theme but IRL
----- Brazil [vs]
-The largest country in both South America and Latin America
+---- Argentina [vs]
+officially the Argentine Republic
 
 ++++++++++++++++++++++   Europe   ++++++++++++++++++++
 ---- France [pl]
@@ -21,6 +21,8 @@ Pizza's origin story
 Not a typo..
 ---- Spain [vs]
 pain with s 
+---- Slovakia [vs]
+no not a Slovina
 
 +++++++++++++++++++++     Africa  ++++++++++++++++++++
 ----- Egypt [pl]
@@ -31,6 +33,8 @@ Where the oldest human was found
 westernmost country in the Maghreb region of North Africa
 ----- Togo [as]
 One of the places that have ever existed
+---- Madagascar [vs]
+nice movies
 
 ++++++++++++++++++++++    Asia    ++++++++++++++++++++
 ------ China [pl]
@@ -39,6 +43,8 @@ Great Wall of China seen from space
 Home of the fastest trains in the world
 ---- Taiwan [vs]
 Taiwan has been settled for at least 25,000 years
+---- South Korea [vs]
+sharing a land border with North Korea
 
 +++++++++++++++++++ Rest of the Wrold ++++++++++++++++
 ----- GreenLand [pl]
@@ -50,3 +56,5 @@ Land formed through volcanic activity. Clear water. Expensive holiday.
 Land of the queens
 --- Australia [vs]
 The ancestors of Aboriginal Australians began arriving from south east Asia approximately 65,000 years ago
+---- New Caledonia [vs]
+collectivity of overseas France
